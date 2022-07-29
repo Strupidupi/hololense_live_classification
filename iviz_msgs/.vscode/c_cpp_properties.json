@@ -1,0 +1,44 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/telepresence/omnimover2.0/ROS/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/telepresence/haptic_ros/catkin_ws/devel/include/**",
+        "/home/telepresence/armarx_repos/install/include/**",
+        "/home/telepresence/armarx_repos/install/usr/include/**",
+        "/home/telepresence/catkin_ws/devel/include/**",
+        "/home/telepresence/armarx_repos/install/usr/local/include/**",
+        "/home/telepresence/catkin_ws/src/eigen_checks/include/**",
+        "/home/telepresence/catkin_ws/src/fraunhofer_rtls_flare/include/**",
+        "/home/telepresence/haptic_ros/catkin_ws/src/teleoperation/ipr_teleoperation/include/**",
+        "/home/telepresence/haptic_ros/catkin_ws/src/common/isas_utils/include/**",
+        "/home/telepresence/omnimover2.0/ROS/src/teleoperation/joystick_teleop/include/**",
+        "/home/telepresence/omnimover2.0/ROS/src/hardware/omnimover/include/**",
+        "/home/telepresence/omnimover2.0/ROS/src/hardware/omnimover_base/include/**",
+        "/home/telepresence/omnimover2.0/ROS/src/control/omnimover_force_control/include/**",
+        "/home/telepresence/haptic_ros/catkin_ws/src/teleoperation/omnimover_joystick/include/**",
+        "/home/telepresence/omnimover2.0/ROS/src/simulation/omnimover_sim/include/**",
+        "/home/telepresence/catkin_ws/src/robdekon_interface/robdekon_interface/include/**",
+        "/home/telepresence/catkin_ws/src/robdekon_interface/robdekon_interface_examples/include/**",
+        "/home/telepresence/catkin_ws/src/serial/include/**",
+        "/home/telepresence/haptic_ros/catkin_ws/src/hardware/smhi_interface/include/**",
+        "/home/telepresence/catkin_ws/src/tf2_web_republisher/include/**",
+        "/home/telepresence/catkin_ws/src/universal_robot/ur_kinematics/include/**",
+        "/home/telepresence/haptic_ros/catkin_ws/src/teleoperation/virtual_manipulator/include/**",
+        "/home/telepresence/omnimover2.0/ROS/src/hardware/vive/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
